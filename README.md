@@ -1,4 +1,4 @@
-# 💰 tumblbug 
+# 💰 tumblbug (Client)
 ![image](https://github.com/leeeeeeeminji/avatye_funding_client/assets/87288893/ab63a84e-b726-48a7-a156-ffea4fe1d6d3)
 <br>
 
